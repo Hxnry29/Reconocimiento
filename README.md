@@ -36,7 +36,7 @@ Aquí hay una descripción de las principales funciones y bibliotecas utilizadas
   + El programa se ejecuta hasta que se presiona la tecla 'q' para salir.
   + Se liberan los recursos de la captura de video y se cierran todas las ventanas.
 
-## Creación de la base de datos
+### Creación de la base de datos
   + El script Python proporcionado realiza varias operaciones relacionadas con la manipulación de     una base de datos SQL Server llamada "EMOTIONS" y dos de sus tablas: "Emotions" y "Workers". 
   + Aquí hay una descripción de lo que hace cada parte del código:
 
