@@ -11,9 +11,9 @@ Este script de Python utiliza la biblioteca OpenCV para capturar video desde la 
 Aquí hay una descripción de las principales funciones y bibliotecas utilizadas:
 
 ### Bibliotecas Importadas:
-  + **pyodbc:** Permite la conexión y manipulación de bases de datos SQL Server.
-    cv2 (OpenCV): Proporciona funciones para procesar imágenes y videos, incluida la detección de     rostros.
-  + **os:** Proporciona funciones para interactuar con el sistema operativo, como acceder a 
+  + **pyodbc:** Permite la conexión y la manipulación de bases de datos SQL Server.
+  + **cv2 (OpenCV):** Se utiliza para procesar imágenes y videos, incluida la detección derostros.
+  + **os:** Se utiliza para interactuar con el sistema operativo, como acceder a 
     archivos.
   + **deepface:** Una biblioteca de Python para el reconocimiento facial y la detección de   
     emociones y género.
