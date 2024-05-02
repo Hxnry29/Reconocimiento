@@ -29,14 +29,14 @@ Aquí hay una descripción de las principales funciones y bibliotecas utilizadas
   + Se extraen los resultados de análisis, incluida la emoción dominante y el género dominante.
 ### Inserción de Datos en la Base de Datos:
   + Para cada rostro analizado, se insertan los datos de emoción, género y marca de tiempo en una     tabla de la base de datos.
-# Visualización del Marco Resultante:
+### Visualización del Marco Resultante:
   + Se muestra el marco resultante con los rectángulos dibujados alrededor de los rostros y la     
     información de emoción y género.
 ### Finalización del Programa:
   + El programa se ejecuta hasta que se presiona la tecla 'q' para salir.
   + Se liberan los recursos de la captura de video y se cierran todas las ventanas.
 
-### Creación de la base de datos
+## Creación de la base de datos
   + El script Python proporcionado realiza varias operaciones relacionadas con la manipulación de     una base de datos SQL Server llamada "EMOTIONS" y dos de sus tablas: "Emotions" y "Workers". 
   + Aquí hay una descripción de lo que hace cada parte del código:
 
